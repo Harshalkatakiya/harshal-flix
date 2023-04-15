@@ -6,6 +6,14 @@ import Link from "next/link";
 import { useState } from 'react';
 
 const Data = [
+     {
+        "photo": "/img/Shehzada.jpg",
+        id: 71,
+        "title": "Shehzada (2023)",
+        "category": "Action",
+        "size": "1.19 GB",
+        "url": "https://drive.google.com/file/d/1SAlzRcEqghoBumtOqoixi4uVmn9ZH6wr/view"
+    },
     {
         "photo": "/img/Vincenzo (2021).jpg",
         id: 71,
