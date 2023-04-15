@@ -384,20 +384,20 @@ const Data = [
         "url": "https://drive.google.com/drive/folders/12RpxMQHEJdduFQRlHd7jzcu7NQ8VyCmn"
     },
     {
-        "photo": "/img/A Quiet Place (2018).jpg",
-        id: 39,
-        "title": "A Quiet Place (2018)",
-        "category": "Horror",
-        "size": "916.9 MB",
-        "url": "https://drive.google.com/file/d/1dT78Rfwx0buQiKDACbebbD7mkdEkIjeH/view"
-    },
-    {
         "photo": "/img/A Quiet Place Part II (2020).jpg",
         id: 40,
         "title": "A Quiet Place Part II (2020)",
         "category": "Horror",
         "size": "939.5 MB",
         "url": "https://drive.google.com/file/d/1sci-TU-Gen43TLhrpWQWz19O8IG1-6cU/view"
+    },
+    {
+        "photo": "/img/A Quiet Place (2018).jpg",
+        id: 39,
+        "title": "A Quiet Place (2018)",
+        "category": "Horror",
+        "size": "916.9 MB",
+        "url": "https://drive.google.com/file/d/1dT78Rfwx0buQiKDACbebbD7mkdEkIjeH/view"
     },
     {
         "photo": "/img/Wednesday (2022).jpg",
