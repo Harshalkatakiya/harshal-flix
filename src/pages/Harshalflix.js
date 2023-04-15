@@ -1,10 +1,10 @@
 import flix from '../styles/HarshalFlix/Harshalflix.module.css';
 import navi from '../styles/HarshalFlix/Navigation.module.css';
 import card from '../styles/HarshalFlix/Card.module.css';
+import Head from 'next/head';
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from 'react';
-import Head from 'next/head';
 
 const Data = [
     {
