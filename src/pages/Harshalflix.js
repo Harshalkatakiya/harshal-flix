@@ -590,14 +590,6 @@ const Data = [
         "category": "Action",
         "size": "882.4 MB",
         "url": "https://drive.google.com/file/d/1UFJoZGTJRqPDT1d4vGR1VdQGs8JWakif/view"
-    },
-    {
-        "photo": "https://i0.wp.com/www.thisishorror.co.uk/wp-content/uploads/2015/10/howl_cover.jpg?fit=1063%2C1500&ssl=1",
-        id: 50,
-        "title": "Howl (2015)",
-        "category": "Horror",
-        "size": "792.5 MB",
-        "url": "https://drive.google.com/file/d/1BjciasBeMHTWdz8JSGs3zPWGm71S9X6b/view"
     }
 ];
 
