@@ -1,4 +1,4 @@
-import flix from '@//styles/Harshalflix/Harshalflix.module.css';
+import flix from '@/styles/Harshalflix/Harshalflix.module.css';
 import navi from '@/styles/HarshalFlix/Navigation.module.css';
 import card from '@/styles/HarshalFlix/Card.module.css';
 import Image from "next/image";
