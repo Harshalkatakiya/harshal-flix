@@ -1,7 +1,6 @@
 import flix from '../styles/HarshalFlix/Harshalflix.module.css';
 import navi from '../styles/HarshalFlix/Navigation.module.css';
 import card from '../styles/HarshalFlix/Card.module.css';
-import Head from 'next/head';
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from 'react';
@@ -624,17 +623,6 @@ const Harshalflix = () => {
     };
     return (
         <>
-            <Head>
-                <meta charset="utf-8" />
-                <meta name="viewport" content="width=device-width, initial-scale=1" />
-                <meta name="keyword" content="harshal.social, harshal, harshalflix, harshal social, HarshalFlix" />
-                <meta name="publisher" content="HarshalFlix" />
-                <meta name="description" content="harshal.social is The Best Movie & WebSeries Download Website." />
-                <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-                <meta name="page-topic" content="Media" />
-                <meta name="audience" content="Everyone" />
-                <title>HarshalFlix</title>
-            </Head>
             <div className={navi.bg}>
                 <center><Link href="/" className={card.a}><Image className={navi.logo} src="/HarshalFlix.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
             </div>
