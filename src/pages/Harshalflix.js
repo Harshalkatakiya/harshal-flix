@@ -7,7 +7,7 @@ import { useState } from 'react';
 
 const Data = [
      {
-        "photo": "/img/Shehzada.jpg",
+        "photo": "/img/Shehzada (2023).jpg",
         id: 71,
         "title": "Shehzada (2023)",
         "category": "Action",
