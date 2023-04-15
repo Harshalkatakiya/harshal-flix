@@ -636,7 +636,7 @@ const Harshalflix = () => {
                 <title>HarshalFlix</title>
             </Head>
             <div className={navi.bg}>
-                <center><Image className={navi.logo} src="/HarshalFlix.png" width={180} height={50} alt="HarshalFlix" /></center>
+                <center><Link href={/}><Image className={navi.logo} src="/HarshalFlix.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
             </div>
             <hr className={`border-danger border-2 opacity-50 ${navi.hr}`} />
             <nav className="navbar bg-body-tertiary">
