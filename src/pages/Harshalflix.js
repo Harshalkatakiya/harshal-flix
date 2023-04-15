@@ -1,6 +1,6 @@
-import flix from '@/styles/Harshalflix/Harshalflix.module.css';
-import navi from '@/styles/HarshalFlix/Navigation.module.css';
-import card from '@/styles/HarshalFlix/Card.module.css';
+import flix from  '../styles/HarshalFlix/Harshalflix.module.css';
+import navi from '../styles/HarshalFlix/Navigation.module.css';
+import card from '../styles/HarshalFlix/Card.module.css';
 import Image from "next/image";
 import Link from "next/link";
 import { useState } from 'react';
