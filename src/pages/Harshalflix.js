@@ -657,7 +657,7 @@ const Harshalflix = () => {
                     return (
                         <>
                             <div className={`${card.cards} text-center`} key={id}>
-                                <img src={photo} className={card.imagephoto} height={280} width={170} alt="HarshalFlix" />
+                                <Image src={photo} className={card.imagephoto} height={280} width={170} alt="HarshalFlix" />
                                 <div className="card-body">
                                     <h6 className="card-title">{title}</h6>
                                     <small className="card-text">Size : {size}</small>
