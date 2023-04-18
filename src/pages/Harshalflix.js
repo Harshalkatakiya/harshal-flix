@@ -7,8 +7,24 @@ import { useState } from 'react';
 
 const Data = [
      {
+        "photo": "/img/Shazam - Fury of Gods (2023).jpg",
+        id: 73,
+        "title": "Shazam - Fury of Gods (2023)",
+        "category": "Action",
+        "size": "1.31 GB",
+        "url": "https://drive.google.com/file/d/1mdaXkBO1Ai0r4saXhp196qUQswat1H6w/view"
+    },
+     {
+        "photo": "/img/Shazam (2019).jpg",
+        id: 73,
+        "title": "Shazam (2019)",
+        "category": "Action",
+        "size": "1.31 GB",
+        "url": "https://drive.google.com/file/d/1fpW2FRA2lH6zA8TWb0aGcN12pZhiQpH_/view"
+    },
+     {
         "photo": "/img/Shehzada (2023).jpg",
-        id: 71,
+        id: 72,
         "title": "Shehzada (2023)",
         "category": "Action",
         "size": "1.19 GB",
