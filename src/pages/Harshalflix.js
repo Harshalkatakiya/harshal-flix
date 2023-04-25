@@ -6,6 +6,14 @@ import Link from "next/link";
 import { useState } from 'react';
 
 const Data = [
+      {
+        "photo": "/img/Selfiee (2023).jpg",
+        id: 74,
+        "title": "Selfiee (2023)",
+        "category": "Drama",
+        "size": "1.29 GB",
+        "url": "https://link.storjshare.io/juyl4tttze47qtyjcjf6ixjucn6a/movie%2FSelfiee%20(2023).mkv"
+    },
      {
         "photo": "/img/Shazam - Fury of Gods (2023).jpg",
         id: 73,
@@ -28,7 +36,7 @@ const Data = [
         "title": "Shehzada (2023)",
         "category": "Action",
         "size": "1.19 GB",
-        "url": "https://drive.google.com/file/d/1SAlzRcEqghoBumtOqoixi4uVmn9ZH6wr/view"
+        "url": "https://link.storjshare.io/jxihh7rwxy4eftysxwfmi6vzaylq/movie%2FShehzada%20(2023).mkv"
     },
     {
         "photo": "/img/Vincenzo (2021).jpg",
@@ -221,7 +229,7 @@ const Data = [
         "title": "Shu Thayu? (2018)",
         "category": "Gujarati",
         "size": "989 MB",
-        "url": "https://drive.google.com/file/d/1Dt5ej8pdDe2r99LNue3pEMrutGJCocIx/view"
+        "url": "https://link.storjshare.io/juvalwim7ok2cbp4rbrahobyztsa/movie%2FShu%20Thayu%20(2018).mkv"
     },
     {
         "photo": "/img/Veer-Isha Nu Seemant (2022).jpg",
@@ -261,7 +269,7 @@ const Data = [
         "title": "Chello Divas (2015)",
         "category": "Gujarati",
         "size": "968.3 MB",
-        "url": "https://drive.google.com/file/d/1Y4FLhshIMTn7uW4HGiYuB5mywlXtnj3R/view"
+        "url": "https://link.storjshare.io/jx6bv5xmlrpwwv4jwi73jgcxdw2q/movie%2FChello%20Divas%20(2015).mkv"
     },
     {
         "photo": "/img/Dear Father (2022).jpg",
