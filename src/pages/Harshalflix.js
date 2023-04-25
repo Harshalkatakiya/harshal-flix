@@ -20,7 +20,7 @@ const Data = [
         "title": "Shazam - Fury of Gods (2023)",
         "category": "Action",
         "size": "1.31 GB",
-        "url": "https://drive.google.com/file/d/1mdaXkBO1Ai0r4saXhp196qUQswat1H6w/view"
+        "url": "https://link.storjshare.io/jxbs3wmm4q75zjoynbe7mwxwc43a/movie%2FShazam%2FShazam%20-%20Fury%20of%20the%20Gods%20(2023).mkv"
     },
      {
         "photo": "/img/Shazam (2019).jpg",
@@ -28,7 +28,7 @@ const Data = [
         "title": "Shazam (2019)",
         "category": "Action",
         "size": "1.31 GB",
-        "url": "https://drive.google.com/file/d/1fpW2FRA2lH6zA8TWb0aGcN12pZhiQpH_/view"
+        "url": "https://link.storjshare.io/jwhflozv33x2kpgviu4mctwot2aq/movie%2FShazam%2FShazam%20(2019).mkv"
     },
      {
         "photo": "/img/Shehzada (2023).jpg",
@@ -125,7 +125,7 @@ const Data = [
         "title": "Pathaan (2023)",
         "category": "Action",
         "size": "1.25 GB",
-        "url": "https://drive.google.com/file/d/13KAAFMb3_2L4ydOpL1hn0rqmY76UWriv/view"
+        "url": "https://link.storjshare.io/jvxbiyf72px6gpgamvxrj2xsa4qq/movie%2FPathaan%20(2023).mkv"
     },
     {
         "photo": "/img/Vinaya Vidheya Rama (2019).jpg",
@@ -277,7 +277,7 @@ const Data = [
         "title": "Dear Father (2022)",
         "category": "Gujarati",
         "size": "900 MB",
-        "url": "https://drive.google.com/file/d/14CNDOcfa9EahvRWjlCWYX9F0TfLMK0QF/view"
+        "url": "https://link.storjshare.io/juufzgmrt3ewosuamdjhtpj7ttuq/movie%2FDear%20Father%20(2022).mkv"
     },
     {
         "photo": "/img/Gajab Thai Gayo (2022).jpg",
@@ -373,7 +373,7 @@ const Data = [
         "title": "Mission Majnu (2023)",
         "category": "Action",
         "size": "1.07 GB",
-        "url": "https://drive.google.com/file/d/1z0ashU7NXAcUT7UGaH2kTKH7pat0_-8x/view"
+        "url": "https://link.storjshare.io/jw3izeptb4lue7wmcmrgux62l2ca/movie%2FMission%20Majnu%20(2023).mkv"
     },
     {
         "photo": "/img/Thor - Love and Thunder (2022).jpg",
@@ -469,7 +469,7 @@ const Data = [
         "title": "Kung Fu Panda 3 (2016)",
         "category": "Action",
         "size": "1.04 GB",
-        "url": "https://drive.google.com/file/d/1JhBDgZp_0_ovyiLj9MuZxsZgmb6cspq5/view"
+        "url": "https://link.storjshare.io/jwiwxvomcjptry6b27illgaigx3q/movie%2FKung%20Fu%20Panda%2FKung%20Fu%20Panda%203%20(2016).mkv"
     },
     {
         "photo": "/img/Kung Fu Panda 2 (2011).jpg",
@@ -477,7 +477,7 @@ const Data = [
         "title": "Kung Fu Panda 2 (2011)",
         "category": "Action",
         "size": "829.4 MB",
-        "url": "https://drive.google.com/file/d/1t2LKzeTcc43kmCMgBKEGh01bcZp80HCa/view"
+        "url": "https://link.storjshare.io/jx2tnkf2tgi6qo5o6f34pp7xp5zq/movie%2FKung%20Fu%20Panda%2FKung%20Fu%20Panda%202%20(2011).mkv"
     },
     {
         "photo": "/img/Kung Fu Panda (2008).jpg",
@@ -485,7 +485,7 @@ const Data = [
         "title": "Kung Fu Panda (2008)",
         "category": "Action",
         "size": "975.6 MB",
-        "url": "https://drive.google.com/file/d/1tsfeHN_cYE-I5qtjTps5E3qzy8ndqzMX/view"
+        "url": "https://link.storjshare.io/jwcksku55oev4ly5p6qzcitrapua/movie%2FKung%20Fu%20Panda%2FKung%20Fu%20Panda%20(2008).mkv"
     },
     {
         "photo": "/img/How to Train Your Dragon - The Hidden World (2019).jpg",
@@ -581,7 +581,7 @@ const Data = [
         "title": "(3) The Conjuring - The Devil Made Me Do It (2021)",
         "category": "Horror",
         "size": "1.02 GB",
-        "url": "https://drive.google.com/file/d/1V1dHi8TNP_0JmznaTL2mdh2FW5GWqy4-/view"
+        "url": "https://link.storjshare.io/jur3h46rpbgjcyd7pvaxqru2fopq/movie%2FThe%20Conjuring%2F(3)%20The%20Conjuring%20-%20The%20Devil%20Made%20Me%20Do%20It%20(2021).mkv"
     },
     {
         "photo": "/img/The Conjuring 2 (2016).jpg",
@@ -589,7 +589,7 @@ const Data = [
         "title": "(2) The Conjuring 2 (2016)",
         "category": "Horror",
         "size": "1.01 GB",
-        "url": "https://drive.google.com/file/d/1r7I-RdtBpsn0xl7BDzFKWQi-f1w3-M3x/view"
+        "url": "https://link.storjshare.io/jwgaai2obiw3nj3vwkc7yqvvsz5a/movie%2FThe%20Conjuring%2F(2)%20The%20Conjuring%202%20(2016).mkv"
     },
     {
         "photo": "/img/The Conjuring (2013).jpg",
@@ -597,7 +597,7 @@ const Data = [
         "title": "(1) The Conjuring (2013)",
         "category": "Horror",
         "size": "1 GB",
-        "url": "https://drive.google.com/file/d/1Lw_eSy9zuMvyVAmMuwcdvSm2dzm9Hsgx/view"
+        "url": "https://link.storjshare.io/jvnor2tett6qlx4rnf7w6oo3oerq/movie%2FThe%20Conjuring%2F(1)%20The%20Conjuring%20(2013).mkv"
     },
     {
         "photo": "/img/Ip Man 3 (2015).jpg",
