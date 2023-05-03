@@ -100,7 +100,7 @@ const Data = [
         "title": "Chor Nikal Ke Bhaga (2023)",
         "category": "Thriller",
         "size": "933.3 MB",
-        "url": "https://drive.google.com/file/d/131VHMkcOrA4eEoF0Rci_qlb-q1Vg_IjW/view"
+        "url": "https://link.storjshare.io/jv35oabxtdoybnxkha53kur6nskq/movie%2FChor%20Nikal%20Ke%20Bhaga%20(2023).mkv"
     },
     {
         "photo": "/img/Peninsula (2020).jpg",
