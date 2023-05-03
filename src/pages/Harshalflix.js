@@ -7,6 +7,14 @@ import { useState } from 'react';
 
 const Data = [
       {
+        "photo": "/img/Tu Jhoothi Main Makkaar (2023).jpg",
+        id: 74,
+        "title": "Tu Jhoothi Main Makkaar (2023)",
+        "category": "Romance",
+        "size": "1.3 GB",
+        "url": "https://link.storjshare.io/jwxhv7v64dtsixttvo43w7y53qua/movie%2FTu%20Jhoothi%20Main%20Makkaar%20(2023).mkv"
+    },
+{
         "photo": "/img/Selfiee (2023).jpg",
         id: 74,
         "title": "Selfiee (2023)",
