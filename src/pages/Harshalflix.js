@@ -6,7 +6,7 @@ import Link from "next/link";
 import { useState } from 'react';
 
 const Data = [
-      {
+    {
         "photo": "/img/Tu Jhoothi Main Makkaar (2023).jpg",
         id: 74,
         "title": "Tu Jhoothi Main Makkaar (2023)",
@@ -14,7 +14,87 @@ const Data = [
         "size": "1.3 GB",
         "url": "https://link.storjshare.io/jwxhv7v64dtsixttvo43w7y53qua/movie%2FTu%20Jhoothi%20Main%20Makkaar%20(2023).mkv"
     },
-{
+    {
+        "photo": "/img/F9 (2021).jpg",
+        id: 84,
+        "title": "F9 (2021)",
+        "category": "Action",
+        "size": "1.35 GB",
+        "url": "https://link.storjshare.io/jwrlzplwaix5glqmhms7ehillk7a/movie%2FFast%20And%20Furious%2FF9%20(2021).mkv"
+    },
+    {
+        "photo": "/img/Fast & Furious Presents - Hobbs & Shaw (2019).jpg",
+        id: 83,
+        "title": "Fast & Furious Presents - Hobbs & Shaw (2019)",
+        "category": "Action",
+        "size": "1.57 GB",
+        "url": "https://link.storjshare.io/jxrloso2vkxqoilpcaodsecswxbq/movie%2FFast%20And%20Furious%2FFast%20%26%20Furious%20Presents%20-%20Hobbs%20%26%20Shaw%20(2019).mkv"
+    },
+    {
+        "photo": "/img/The Fate of the Furious (2017).jpg",
+        id: 82,
+        "title": "The Fate of the Furious (2017)",
+        "category": "Action",
+        "size": "1.44 GB",
+        "url": "https://link.storjshare.io/juzoborvqolng6khs5fzzq43znjq/movie%2FFast%20And%20Furious%2FThe%20Fate%20of%20the%20Furious%20(2017).mkv"
+    },
+    {
+        "photo": "/img/Fast & Furious 7 (2015).jpg",
+        id: 81,
+        "title": "Fast & Furious 7 (2015)",
+        "category": "Action",
+        "size": "1.46 GB",
+        "url": "https://link.storjshare.io/jvowkfrynjnnbnpammjjt3wy42qa/movie%2FFast%20And%20Furious%2FFast%20%26%20Furious%207%20(2015).mkv"
+    },
+    {
+        "photo": "/img/Fast & Furious 6 (2013).jpg",
+        id: 80,
+        "title": "Fast & Furious 6 (2013)",
+        "category": "Action",
+        "size": "1.39 GB",
+        "url": "https://link.storjshare.io/jwplmfr2et43pyqrzefmjdaixqnq/movie%2FFast%20And%20Furious%2FFast%20%26%20Furious%206%20(2013).mkv"
+    },
+    {
+        "photo": "/img/Fast Five (2011).jpg",
+        id: 79,
+        "title": "Fast Five (2011)",
+        "category": "Action",
+        "size": "1.38 GB",
+        "url": "https://link.storjshare.io/julll72a6px4qkhdoliqtzsimm6a/movie%2FFast%20And%20Furious%2FFast%20Five%20(2011).mkv"
+    },
+    {
+        "photo": "/img/Fast & Furious (2009).jpg",
+        id: 78,
+        "title": "Fast & Furious (2009)",
+        "category": "Action",
+        "size": "1.13 GB",
+        "url": "https://link.storjshare.io/jxruumtc3hslrku4vqnjikkwo4jq/movie%2FFast%20And%20Furious%2FFast%20%26%20Furious%20(2009).mkv"
+    },
+    {
+        "photo": "/img/The Fast and the Furious - Tokyo Drift (2006).jpg",
+        id: 77,
+        "title": "The Fast and the Furious - Tokyo Drift (2006)",
+        "category": "Action",
+        "size": "1.23 GB",
+        "url": "https://link.storjshare.io/juj4esnyran72tgblx7cw7ldtuoq/movie%2FFast%20And%20Furious%2FThe%20Fast%20and%20the%20Furious%20-%20Tokyo%20Drift%20(2006).mkv"
+    },
+    {
+        "photo": "/img/2 Fast 2 Furious (2003).jpg",
+        id: 76,
+        "title": "2 Fast 2 Furious (2003)",
+        "category": "Action",
+        "size": "1.28 GB",
+        "url": "https://link.storjshare.io/jwsntwzkrt6jdwgfa4xnbgziyadq/movie%2FFast%20And%20Furious%2F2%20Fast%202%20Furious%20(2003).mkv"
+    },
+    {
+        "photo": "/img/The Fast and the Furious (2001).jpg",
+        id: 75,
+        "title": "The Fast and the Furious (2001)",
+        "category": "Action",
+        "size": "1.13 GB",
+        "url": "https://link.storjshare.io/jxnyodmk2nez2hz43irfewrcnhqa/movie%2FFast%20And%20Furious%2FThe%20Fast%20and%20the%20Furious%20(2001).mkv"
+    },
+    {
         "photo": "/img/Selfiee (2023).jpg",
         id: 74,
         "title": "Selfiee (2023)",
@@ -22,7 +102,7 @@ const Data = [
         "size": "1.29 GB",
         "url": "https://link.storjshare.io/juyl4tttze47qtyjcjf6ixjucn6a/movie%2FSelfiee%20(2023).mkv"
     },
-     {
+    {
         "photo": "/img/Shazam - Fury of Gods (2023).jpg",
         id: 73,
         "title": "Shazam - Fury of Gods (2023)",
@@ -30,7 +110,7 @@ const Data = [
         "size": "1.31 GB",
         "url": "https://link.storjshare.io/jxbs3wmm4q75zjoynbe7mwxwc43a/movie%2FShazam%2FShazam%20-%20Fury%20of%20the%20Gods%20(2023).mkv"
     },
-     {
+    {
         "photo": "/img/Shazam (2019).jpg",
         id: 73,
         "title": "Shazam (2019)",
@@ -38,7 +118,7 @@ const Data = [
         "size": "1.31 GB",
         "url": "https://link.storjshare.io/jwhflozv33x2kpgviu4mctwot2aq/movie%2FShazam%2FShazam%20(2019).mkv"
     },
-     {
+    {
         "photo": "/img/Shehzada (2023).jpg",
         id: 72,
         "title": "Shehzada (2023)",
