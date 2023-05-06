@@ -221,7 +221,7 @@ const Data = [
         "title": "Vinaya Vidheya Rama (2019)",
         "category": "Action",
         "size": "1.28 GB",
-        "url": "https://drive.google.com/file/d/1K0zqqhHM7tHEZspgBz0K1vnFSsG0lBtN/view"
+        "url": "https://link.storjshare.io/jvqbvzhylaq3dgj3g3kfe7ap57rq/movie%2FVinaya%20Vidheya%20Rama%20(2019).mkv"
     },
     {
         "photo": "/img/Varisu (2023).jpg",
@@ -261,7 +261,7 @@ const Data = [
         "title": "Hun Iqbaal (2023)",
         "category": "Gujarati",
         "size": "1.11 GB",
-        "url": "https://drive.google.com/file/d/1oAFuM-j0e4-Cd0n3_bMAgYgBtnjLUQIr/view"
+        "url": "https://link.storjshare.io/ju7zzwe7w7nguh4rntctxp6nptkq/movie%2FHun%20Iqbaal%20(2023).mkv"
     },
     {
         "photo": "/img/M3GAN (2023).jpg",
