@@ -760,7 +760,7 @@ const Harshalflix = () => {
     return (
         <>
             <div className={navi.bg}>
-                <center><Link href="/" className={card.a}><Image className={navi.logo} src="/HarshalFlix.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
+                <center><Link href="/" className={card.a}><Image className={navi.logo} src="/logo.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
             </div>
             <hr className={`border-danger border-2 opacity-50 ${navi.hr}`} />
             <nav className="navbar bg-body-tertiary">
