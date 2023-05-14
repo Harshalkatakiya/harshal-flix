@@ -7,6 +7,22 @@ import { useState } from 'react';
 
 const Data = [
     {
+        "photo": "/img/Vikram Vedha (2023).jpg",
+        id: 86,
+        "title": "Vikram Vedha (2023)",
+        "category": "Action",
+        "size": "1.36 GB",
+        "url": "https://link.storjshare.io/jvsjc55mnqg6kqcsczc6d5otcw2q/movie%2FVikram%20Vedha%20(2022).mkv"
+    },
+    {
+        "photo": "/img/Bholaa (2023).jpg",
+        id: 85,
+        "title": "Bholaa (2023)",
+        "category": "Thriller",
+        "size": "1.26 GB",
+        "url": "https://link.storjshare.io/jv3r4zsip6wls2oqlgessfyjatta/movie%2FBholaa%20(2023).mkv"
+    },
+    {
         "photo": "/img/Tu Jhoothi Main Makkaar (2023).jpg",
         id: 74,
         "title": "Tu Jhoothi Main Makkaar (2023)",
