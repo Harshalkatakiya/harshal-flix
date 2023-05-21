@@ -1,0 +1,9 @@
+@keyframes logo-animation {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 25vh;
+    }
+}
