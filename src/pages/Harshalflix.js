@@ -1,11 +1,34 @@
+import flix from '../styles/HarshalFlix/Harshalflix.module.css';
+import navi from '../styles/HarshalFlix/Navigation.module.css';
+import card from '../styles/HarshalFlix/Card.module.css';
+import Image from "next/image";
+import Link from "next/link";
+import { useState } from 'react';
+
 const Data = [
+    {
+        "photo": "/img/The Super Mario Bros. Movie (2023).jpg",
+        id: 87,
+        "title": "The Super Mario Bros. Movie (2023)",
+        "category": "Adventure",
+        "size": "986.5 MB",
+        "url": "https://drive.google.com/file/d/1Ms9YPO0boqQBXVIRivWxt0FvlhOIMhLu/view"
+    },
+    {
+        "photo": "/img/Ant-Man and the Wasp - Quantumania (2023).jpg",
+        id: 88,
+        "title": "Ant-Man and the Wasp - Quantumania (2023)",
+        "category": "Sci-Fi",
+        "size": "1.16 GB",
+        "url": "https://drive.google.com/file/d/1a-E_-mw_F0uTJC1JtAyTnW2Nvn4SW02D/view"
+    },
     {
         "photo": "/img/Vikram Vedha (2023).jpg",
         id: 86,
         "title": "Vikram Vedha (2023)",
         "category": "Action",
         "size": "1.36 GB",
-        "url": "https://link.storjshare.io/jvsjc55mnqg6kqcsczc6d5otcw2q/movie%2FVikram%20Vedha%20(2022).mkv"
+        "url": "https://drive.google.com/file/d/13LFOzoUVOCuI-JNaINhxgzVi1RKChOHA/view"
     },
     {
         "photo": "/img/Bholaa (2023).jpg",
@@ -13,7 +36,7 @@ const Data = [
         "title": "Bholaa (2023)",
         "category": "Thriller",
         "size": "1.26 GB",
-        "url": "https://link.storjshare.io/jv3r4zsip6wls2oqlgessfyjatta/movie%2FBholaa%20(2023).mkv"
+        "url": "https://drive.google.com/file/d/1Gpsf2J4Q5LfoQ_PZHpF7DgjeM4Zttd3M/view"
     },
     {
         "photo": "/img/Tu Jhoothi Main Makkaar (2023).jpg",
@@ -729,4 +752,66 @@ const Data = [
         "url": "https://drive.google.com/file/d/1BjciasBeMHTWdz8JSGs3zPWGm71S9X6b/view"
     }
 ];
-export default Data;
+
+const uniqueList = [
+    ...new Set(
+        Data.map((curr) => {
+            return curr.category;
+        })
+    ),
+    "All",
+];
+const Harshalflix = () => {
+    const [movie, setMovie] = useState(Data);
+    const filterItem = (category) => {
+        if (category === "All") {
+            setMovie(Data);
+            return;
+        }
+        const updatedList = Data.filter((curr) => {
+            return curr.category === category;
+        });
+        setMovie(updatedList);
+    };
+    return (
+        <>
+            <div className={navi.bg}>
+                <center><Link href="/" className={card.a}><Image className={navi.logo} src="/logo.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
+            </div>
+            <hr className={`border-danger border-2 opacity-50 ${navi.hr}`} />
+            <nav className="navbar bg-body-tertiary">
+                <ul className="nav nav-tabs justify-content-center m-auto">
+                    {uniqueList.map((curelem) => {
+                        return (
+                            <li className="nav-item" key={curelem} >
+                                <button className={`nav-link ${navi.bgdanger} ${navi.btnlink}`} aria-current="page"
+                                    onClick={() => { filterItem(curelem) }}>{curelem}</button>
+                            </li>
+                        )
+                    })}
+                </ul>
+            </nav>
+            <div className={`row ${flix.rowflix}`}>
+                {movie.map((curr) => {
+                    const { id, photo, title, size, url } = curr;
+                    return (
+                        <>
+                            <div className={`${card.cards} text-center`} key={id}>
+                                <Image src={photo} className={card.imagephoto} height={280} width={170} alt={title} />
+                                <div className="card-body">
+                                    <h6 className="card-title">{title}</h6>
+                                    <small className="card-text">Size : {size}</small>
+                                </div>
+                                <Link className={card.a} href={url} rel="noreferrer" target="_blank">
+                                    <div className={`${card.download} text-c`}>Download</div>
+                                </Link>
+                            </div>
+                        </>
+                    )
+                })}
+            </div>
+        </>
+    )
+}
+
+export default Harshalflix;
