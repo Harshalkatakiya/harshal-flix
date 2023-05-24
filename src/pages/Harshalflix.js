@@ -7,6 +7,14 @@ import { useState } from 'react';
 
 const Data = [
     {
+        "photo": "/img/John Wick - Chapter 4 (2023).jpg",
+        id: 89,
+        "title": "John Wick - Chapter 4 (2023)",
+        "category": "Action",
+        "size": "1.71 GB",
+        "url": "https://drive.google.com/file/d/15-p1neGp3kDSVyWWhsnrKGHcd4dDqlWa/view"
+    },
+    {
         "photo": "/img/The Super Mario Bros. Movie (2023).jpg",
         id: 87,
         "title": "The Super Mario Bros. Movie (2023)",
