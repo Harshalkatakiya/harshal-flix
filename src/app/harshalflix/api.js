@@ -1,10 +1,3 @@
-import flix from '../styles/HarshalFlix/Harshalflix.module.css';
-import navi from '../styles/HarshalFlix/Navigation.module.css';
-import card from '../styles/HarshalFlix/Card.module.css';
-import Image from "next/image";
-import Link from "next/link";
-import { useState } from 'react';
-
 const Data = [
     {
         "photo": "/img/John Wick - Chapter 4 (2023).jpg",
@@ -760,66 +753,4 @@ const Data = [
         "url": "https://drive.google.com/file/d/1BjciasBeMHTWdz8JSGs3zPWGm71S9X6b/view"
     }
 ];
-
-const uniqueList = [
-    ...new Set(
-        Data.map((curr) => {
-            return curr.category;
-        })
-    ),
-    "All",
-];
-const Harshalflix = () => {
-    const [movie, setMovie] = useState(Data);
-    const filterItem = (category) => {
-        if (category === "All") {
-            setMovie(Data);
-            return;
-        }
-        const updatedList = Data.filter((curr) => {
-            return curr.category === category;
-        });
-        setMovie(updatedList);
-    };
-    return (
-        <>
-            <div className={navi.bg}>
-                <center><Link href="/" className={card.a}><Image className={navi.logo} src="/logo.png" width={180} height={50} alt="HarshalFlix" /></Link></center>
-            </div>
-            <hr className={`border-danger border-2 opacity-50 ${navi.hr}`} />
-            <nav className="navbar bg-body-tertiary">
-                <ul className="nav nav-tabs justify-content-center m-auto">
-                    {uniqueList.map((curelem) => {
-                        return (
-                            <li className="nav-item" key={curelem} >
-                                <button className={`nav-link ${navi.bgdanger} ${navi.btnlink}`} aria-current="page"
-                                    onClick={() => { filterItem(curelem) }}>{curelem}</button>
-                            </li>
-                        )
-                    })}
-                </ul>
-            </nav>
-            <div className={`row ${flix.rowflix}`}>
-                {movie.map((curr) => {
-                    const { id, photo, title, size, url } = curr;
-                    return (
-                        <>
-                            <div className={`${card.cards} text-center`} key={id}>
-                                <Image src={photo} className={card.imagephoto} height={280} width={170} alt={title} />
-                                <div className="card-body">
-                                    <h6 className="card-title">{title}</h6>
-                                    <small className="card-text">Size : {size}</small>
-                                </div>
-                                <Link className={card.a} href={url} rel="noreferrer" target="_blank">
-                                    <div className={`${card.download} text-c`}>Download</div>
-                                </Link>
-                            </div>
-                        </>
-                    )
-                })}
-            </div>
-        </>
-    )
-}
-
-export default Harshalflix;
+export default Data;
