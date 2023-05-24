@@ -501,7 +501,7 @@ const Data = [
         "title": "Mission Majnu (2023)",
         "category": "Action",
         "size": "1.07 GB",
-        "url": "https://link.storjshare.io/jw3izeptb4lue7wmcmrgux62l2ca/movie%2FMission%20Majnu%20(2023).mkv"
+        "url": "https://drive.google.com/file/d/1G0kDQ9OVRFNS7J0ZYkbt43EVuc2hROay/view"
     },
     {
         "photo": "/img/Thor - Love and Thunder (2022).jpg",
