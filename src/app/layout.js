@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'Harshal Flix',
-  description: 'harshal.social is The Best Movie & WebSeries Download Website.',
+  description: 'Stream and Download the Latest Movies and Web-Series on Harshal Flix.',
 }
 
 export default function RootLayout({ children }) {
