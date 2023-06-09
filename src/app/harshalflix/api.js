@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Avatar - The Way of Water (2023).jpg",
+        id: 90,
+        "title": "Avatar - The Way of Water (2023)",
+        "category": "Adventure",
+        "size": "1.66 GB",
+        "url": "https://drive.google.com/file/d/1at9QYUuOoAE1dG33qFffTB5OfhyeOSkb/view"
+    },
+    {
         "photo": "/img/John Wick - Chapter 4 (2023).jpg",
         id: 89,
         "title": "John Wick - Chapter 4 (2023)",
