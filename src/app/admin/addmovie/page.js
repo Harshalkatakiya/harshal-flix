@@ -5,7 +5,7 @@ import modes from './Switch.module.css';
 import { useState } from 'react';
 import axios from 'axios';
 
-const AddMovie = ({ initialData }) => {
+const AddMovie = () => {
     const [mode, setMode] = useState(true);
     const [imdbUrl, setImdbUrl] = useState('');
     const [title, setTitle] = useState('');
@@ -462,14 +462,3 @@ const AddMovie = ({ initialData }) => {
 }
 
 export default AddMovie;
-
-export async function getServerSideProps() {
-    // Fetch data from an API or any other data source
-    const data = await fetch('/api/imdb').then((res) => res.json());
-
-    return {
-        props: {
-            initialData: data,
-        },
-    };
-}
