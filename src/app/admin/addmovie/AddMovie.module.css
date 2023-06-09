@@ -1,0 +1,55 @@
+@media (min-width: 320px) {
+    .mainCard {
+        width: 400px;
+    }
+
+    .row2Add {
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 768px) {
+    .mainCard {
+        width: 700px;
+    }
+
+    .row2Add {
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 1024px) {
+    .mainCard {
+        width: 900px;
+    }
+
+    .row2Add {
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 992px) {
+    .mainCard {
+        width: 900px;
+    }
+
+    .row2Add {
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        cursor: pointer;
+    }
+
+    .submitButton {
+      
+    }
+}
