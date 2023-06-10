@@ -1,11 +1,35 @@
 const Data = [
     {
-        "photo": "/img/Avatar - The Way of Water (2023).jpg",
-        id: 90,
+        "photo": "/img/Avatar - The Way of Water (2022).jpg",
+        id: 92,
         "title": "Avatar - The Way of Water (2022)",
         "category": "Adventure",
         "size": "1.66 GB",
         "url": "https://drive.google.com/file/d/1at9QYUuOoAE1dG33qFffTB5OfhyeOSkb/view"
+    },
+    {
+        "photo": "/img/Bloody Daddy (2023).jpg",
+        id: 91,
+        "title": "Bloody Daddy (2023)",
+        "category": "Action",
+        "size": "1.02 GB",
+        "url": "https://drive.google.com/file/d/1uDNRqnlTGJoqC7O7fry_AqAYePTDkqk-/view"
+    },
+    {
+        "photo": "/img/Ponniyin Selvan - II (2023).jpg",
+        id: 90,
+        "title": "Ponniyin Selvan - II (2023)",
+        "category": "Action",
+        "size": "1.38 GB",
+        "url": "https://drive.google.com/file/d/1M1gxvXGEPwEZayPiq6TJtJ_Ty1gn0MzF/view"
+    },
+    {
+        "photo": "/img/Bhediya (2023).jpg",
+        id: 90,
+        "title": "Bhediya (2023)",
+        "category": "Thriller",
+        "size": "1.19 GB",
+        "url": "https://drive.google.com/file/d/1yMpCN1PDxBp8JXEUcc4DYorS4r3bA92H/view"
     },
     {
         "photo": "/img/John Wick - Chapter 4 (2023).jpg",

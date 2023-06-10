@@ -11,8 +11,8 @@ function Navigation({ filterItem, menuList }) {
             </div>
             <div className='relative'>
                 <div className='relative h-[10vh]'></div> {/* DONT remove this its used for above space for fixed navbar */}
-                <nav className='relative m-3'>
-                    <ul className='flex gap-x-5 gap-y-2 mt-2 justify-center flex-wrap'>
+                <nav className='relative'>
+                    <ul className='flex gap-x-5 gap-y-2 mt-1 justify-center flex-wrap'>
                         {menuList.map((curelem) => {
                             return (
                                 <li key={curelem} className=''>
