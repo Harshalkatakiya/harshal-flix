@@ -1,6 +1,6 @@
 const Data = [
     {
-        "photo": "/img/Avatar - The Way of Water (2022).jpg",
+        "photo": "/img/Avatar - The Way of Water (2023).jpg",
         id: 90,
         "title": "Avatar - The Way of Water (2023)",
         "category": "Adventure",
