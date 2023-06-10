@@ -1,8 +1,8 @@
 const Data = [
     {
-        "photo": "/img/Avatar - The Way of Water (2022).jpg",
+        "photo": "/img/Avatar - The Way of Water (2023).jpg",
         id: 90,
-        "title": "Avatar - The Way of Water (2023)",
+        "title": "Avatar - The Way of Water (2022)",
         "category": "Adventure",
         "size": "1.66 GB",
         "url": "https://drive.google.com/file/d/1at9QYUuOoAE1dG33qFffTB5OfhyeOSkb/view"
