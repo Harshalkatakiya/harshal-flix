@@ -10,9 +10,9 @@ function Navigation({ filterItem, menuList }) {
                 <Image src={logo} className='mx-auto w-[25vh] h-auto mt-2 animate-[logo-animation_1s_ease]' alt="HarshalFlix" />
             </div>
             <div className='relative'>
-                <div className='relative h-[10vh]'></div> {/* DONT remove this its used for above space for fixed navbar */}
+                <div className='relative h-[8vh]'></div> {/* DONT remove this its used for above space for fixed navbar */}
                 <nav className='relative'>
-                    <ul className='flex gap-x-5 gap-y-2 mt-1 justify-center flex-wrap'>
+                    <ul className='flex gap-x-5 gap-y-2 justify-center flex-wrap'>
                         {menuList.map((curelem) => {
                             return (
                                 <li key={curelem} className=''>
