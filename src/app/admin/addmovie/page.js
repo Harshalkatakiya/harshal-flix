@@ -20,12 +20,23 @@ const AddMovie = () => {
         setIsLoading(true);
         try {
             const response = await axios.post('/api/imdb', { imdbUrl });
-            setTitle(response.data.title);
-            setYear(response.data.year);
-            setRating(response.data.rating);
-            setDescription(response.data.description);
-            setGenre(response.data.genre);
-            setStars(response.data.stars);
+            const { title, year, rating, description, genre, stars } = response.data;
+            setTitle(title);
+            setYear(year);
+            setRating(rating);
+            setDescription(description);
+            setGenre(genre);
+            setStars(stars);
+            setMovie((prevState) => ({
+                ...prevState,
+                imdb: imdbUrl,
+                title: title,
+                year: year,
+                rating: rating,
+                description: description,
+                category: [genre],
+                stars: [stars],
+            }));
         } catch (error) {
             console.error('Error:', error.message);
         }
