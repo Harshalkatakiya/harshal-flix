@@ -1,4 +1,12 @@
 const Data = [
+     {
+        "photo": "/img/Aum Mangalam Singlem (2022).jpg",
+        id: 66,
+        "title": "Aum Mangalam Singlem (2022)",
+        "category": "Gujarati",
+        "size": "1.36 GB",
+        "url": "https://drive.google.com/file/d/1VAhNKbcHAYNgV1jUirmR-XJv1bu_TDy3/view"
+    },
     {
         "photo": "/img/Avatar - The Way of Water (2022).jpg",
         id: 94,
@@ -278,15 +286,6 @@ const Data = [
         "category": "Horror",
         "size": "1.04 GB",
         "url": "https://drive.google.com/file/d/1UcZo8S6SKk7CrXU12HCUahNoS7-JC8mJ/view"
-    },
-
-    {
-        "photo": "/img/Aum Mangalam Singlem (2022).jpg",
-        id: 66,
-        "title": "Aum Mangalam Singlem (2022) (with Ads)",
-        "category": "Gujarati",
-        "size": "1.33 GB",
-        "url": "https://link.storjshare.io/jw5bh5s32idnld5lt2xodg7ifbaa/movie%2FAum%20Mangalam%20Singlem%20(2022).mkv"
     },
     {
         "photo": "/img/Pathaan (2023).jpg",
