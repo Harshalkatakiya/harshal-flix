@@ -1,5 +1,21 @@
 const Data = [
-     {
+    {
+        "photo": "/img/Extraction 2 (2023).jpg",
+        id: 97,
+        "title": "Extraction 2 (2023)",
+        "category": "Action",
+        "size": "1.1 GB",
+        "url": "https://drive.google.com/file/d/1L1ef18r1HmxzZgWwxdQOk0XDelYPSoEG/view"
+    },
+    {
+        "photo": "/img/Gumraah (2023).jpg",
+        id: 96,
+        "title": "Gumraah (2023)",
+        "category": "Action",
+        "size": "1.06 GB",
+        "url": "https://drive.google.com/file/d/1ZN15gMD8XnO-rbAjlAZw-2zC7t1kmV1c/view"
+    },
+    {
         "photo": "/img/Aum Mangalam Singlem (2022).jpg",
         id: 66,
         "title": "Aum Mangalam Singlem (2022)",
@@ -33,7 +49,7 @@ const Data = [
     },
     {
         "photo": "/img/Ponniyin Selvan - II (2023).jpg",
-        id: 90,
+        id: 95,
         "title": "Ponniyin Selvan - II (2023)",
         "category": "Action",
         "size": "1.38 GB",
