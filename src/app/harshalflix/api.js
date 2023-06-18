@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Adipurush (2023).jpg",
+        id: 98,
+        "title": "Adipurush (2023) (Theatre Quality)",
+        "category": "Action",
+        "size": "3.33 GB",
+        "url": "https://drive.google.com/file/d/1K32ZXDybKkqhgqA48vtst1dBXHg1sQH9/view"
+    },
+    {
         "photo": "/img/Extraction 2 (2023).jpg",
         id: 97,
         "title": "Extraction 2 (2023)",
