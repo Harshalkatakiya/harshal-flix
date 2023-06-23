@@ -444,8 +444,8 @@ const Data = [
         id: 36,
         "title": "Vickida No Varghodo (2022)",
         "category": "Gujarati",
-        "size": "1.17",
-        "url": "https://drive.google.com/file/d/1l_LVJ_oyWirLsU9joaxaefISUkxrM0pC/view"
+        "size": "1.68 GB",
+        "url": "https://drive.google.com/file/d/1lIc5Gw_EjkFiG-9fZ04h2nCkErOMp-ic/view"
     },
     {
         "photo": "/img/Fakt Mahilao Maate (2022).jpg",
