@@ -42,10 +42,10 @@ const Data = [
     {
         "photo": "/img/Avatar - The Way of Water (2022).jpg",
         id: 94,
-        "title": "Avatar - The Way of Water (2022) (4K 60FPS)",
+        "title": "Avatar - The Way of Water (2022) (1080p REMUX Quality)",
         "category": "Adventure",
-        "size": "57.26 GB",
-        "url": "https://drive.google.com/file/d/1Qvr84r_DOFbjhTpxEtljTL0AmnEq-g8Q/view"
+        "size": "40.25 GB",
+        "url": "https://drive.google.com/file/d/1OxdNnW1sYZ1DFO59C_LodX4OhumBt0sq/view"
     },
     {
         "photo": "/img/Avatar - The Way of Water (2022).jpg",
