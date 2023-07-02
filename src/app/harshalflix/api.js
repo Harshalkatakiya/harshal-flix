@@ -1,5 +1,21 @@
 const Data = [
     {
+        "photo": "/img/The Night Manager (2023).jpg",
+        id: 99,
+        "title": "The Night Manager (2023) (Part 2)",
+        "category": "Action",
+        "size": "1.5 GB",
+        "url": "https://drive.google.com/file/d/1BI1CyhXPdevZKc4yyBSElJJLPHm1Q6tJ/view"
+    },
+    {
+        "photo": "/img/The Night Manager (2023).jpg",
+        id: 99,
+        "title": "The Night Manager (2023) (Part 1)",
+        "category": "Action",
+        "size": "1.58 GB",
+        "url": "https://drive.google.com/file/d/1wTqZDqYySC42rN4P7V2Yr-_W5v4-Ap23/view"
+    },
+    {
         "photo": "/img/Fast X (2023).jpg",
         id: 99,
         "title": "Fast X (2023)",
