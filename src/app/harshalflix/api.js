@@ -16,14 +16,6 @@ const Data = [
         "url": "https://drive.google.com/file/d/1wTqZDqYySC42rN4P7V2Yr-_W5v4-Ap23/view"
     },
     {
-        "photo": "/img/Fast X (2023).jpg",
-        id: 99,
-        "title": "Fast X (2023)",
-        "category": "Action",
-        "size": "1.35 GB",
-        "url": "https://drive.google.com/file/d/1BnGS8fwLj-X_bvvDBH_NdVUREBDThkud/view"
-    },
-    {
         "photo": "/img/Adipurush (2023).jpg",
         id: 98,
         "title": "Adipurush (2023) (Theatre Quality)",
@@ -142,6 +134,14 @@ const Data = [
         "category": "Romance",
         "size": "1.3 GB",
         "url": "https://link.storjshare.io/jwxhv7v64dtsixttvo43w7y53qua/movie%2FTu%20Jhoothi%20Main%20Makkaar%20(2023).mkv"
+    },
+    {
+        "photo": "/img/Fast X (2023).jpg",
+        id: 99,
+        "title": "Fast X (2023)",
+        "category": "Action",
+        "size": "1.35 GB",
+        "url": "https://drive.google.com/file/d/1BnGS8fwLj-X_bvvDBH_NdVUREBDThkud/view"
     },
     {
         "photo": "/img/F9 (2021).jpg",
