@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Shubh Yatra (2023).jpg",
+        id: 100,
+        "title": "Shubh Yatra (2023)",
+        "category": "Gujarati",
+        "size": "2.33 GB",
+        "url": "https://drive.google.com/file/d/1IVQYyM1nz8eTn1T4ZUpouymaxagR1dzu/view"
+    },
+    {
         "photo": "/img/The Night Manager (2023).jpg",
         id: 99,
         "title": "The Night Manager (2023) (Part 2)",
