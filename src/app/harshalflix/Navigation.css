@@ -6,3 +6,6 @@
         width: 25vh;
     }
 }
+.custom-placeholder::placeholder {
+    color: #DC2626; /* Replace with your desired color */
+  }
