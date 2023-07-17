@@ -8,6 +8,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/1IVQYyM1nz8eTn1T4ZUpouymaxagR1dzu/view"
     },
     {
+        "photo": "/img/Suzume no Tojimari (2022).jpg",
+        id: 100,
+        "title": "Suzume no Tojimari (2022)",
+        "category": "Adventure",
+        "size": "1.1 GB",
+        "url": "https://drive.google.com/file/d/1_zxLcXDzGjTPblJC6RsblAnV9Wz6jbX-/view"
+    },
+    {
         "photo": "/img/The Night Manager (2023).jpg",
         id: 99,
         "title": "The Night Manager (2023) (Part 2)",
