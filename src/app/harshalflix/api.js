@@ -1,7 +1,15 @@
 const Data = [
     {
+        "photo": "/img/The Flash (2023).jpg",
+        id: 102,
+        "title": "The Flash (2023)",
+        "category": "Action",
+        "size": "1.33 GB",
+        "url": "https://drive.google.com/file/d/1Fs53sddeqeR8RUd4Y0t8FtX-Y9oo0Wxj/view"
+    },
+    {
         "photo": "/img/Shubh Yatra (2023).jpg",
-        id: 100,
+        id: 101,
         "title": "Shubh Yatra (2023)",
         "category": "Gujarati",
         "size": "2.33 GB",
