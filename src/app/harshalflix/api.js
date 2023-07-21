@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Oppenheimer (2023).jpg",
+        id: 103,
+        "title": "Oppenheimer (2023) (Theatre Quality)",
+        "category": "War",
+        "size": "3.43 GB",
+        "url": "https://drive.google.com/file/d/1AKTotn6g53nn5J16wYaWqiCiyWLPGIH8/view"
+    },
+    {
         "photo": "/img/The Flash (2023).jpg",
         id: 102,
         "title": "The Flash (2023)",
