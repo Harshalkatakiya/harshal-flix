@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Kutch Express (2023).jpg",
+        id: 103,
+        "title": "Kutch Express (2023) (Hindi)",
+        "category": "Drama",
+        "size": "1.18 GB",
+        "url": "https://drive.google.com/file/d/1HdE-E2_IMxbpj8QFDLgTHaqfGlQL4nXn/view"
+    },
+    {
         "photo": "/img/Guardians of the Galaxy Vol 3 (2023).jpg",
         id: 103,
         "title": "Guardians of the Galaxy Vol. 3 (2023)",
