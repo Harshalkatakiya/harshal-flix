@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Spider-Man - Across the Spider-Verse (2023).jpg",
+        id: 103,
+        "title": "Spider-Man: Across the Spider-Verse (2023)",
+        "category": "Adventure",
+        "size": "7.12 GB",
+        "url": "https://drive.google.com/file/d/1eNpjxBPZnFNFsbV1d8atvuJYma9TJqMq/view"
+    },
+    {
         "photo": "/img/Kutch Express (2023).jpg",
         id: 103,
         "title": "Kutch Express (2023) (Hindi)",
