@@ -65,7 +65,7 @@ const page = () => {
                                 );
                             })}
                         </ul>
-                        <div className='md:relative md:w-48 md:-right-36 mt-2 mb-0 md:ms-3'>
+                        <div className='md:relative md:w-48 md:ms-20 mt-2 mb-0'>
                             <div className="flex items-center ml-auto">
                                 <input
                                     type="text"
