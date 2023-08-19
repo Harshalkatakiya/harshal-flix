@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Guns and Gulaabs.jpg",
+        id: 104,
+        "title": "Guns & Gulaabs (Season 1)",
+        "category": "Crime",
+        "size": "3.1 GB",
+        "url": "https://drive.google.com/file/d/1qT529p2LPyS7dvwgUg-bJyE7dOOU1AOq/view"
+    },
+    {
         "photo": "/img/Heart of Stone (2023).jpg",
         id: 103,
         "title": "Heart of Stone (2023)",
