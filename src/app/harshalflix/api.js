@@ -2,7 +2,7 @@ const Data = [
     {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
-        "title": "Gadar 2 (2023)",
+        "title": "Gadar 2 (2023) (Theatre Quality)",
         "category": "Action",
         "size": "2.79 GB",
         "url": "https://drive.google.com/file/d/1biEt2B2H1G0Iqhjc6bxoftrE2wr6pMCJ/view"
