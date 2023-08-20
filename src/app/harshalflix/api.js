@@ -1,6 +1,22 @@
 const Data = [
     {
-        "photo": "/img/Guns and Gulaabs.jpg",
+        "photo": "/img/Gadar 2 (2023).jpg",
+        id: 104,
+        "title": "Gadar 2 (2023)",
+        "category": "Action",
+        "size": "2.79 GB",
+        "url": "https://drive.google.com/file/d/1biEt2B2H1G0Iqhjc6bxoftrE2wr6pMCJ/view"
+    },
+    {
+        "photo": "/img/Gadar - Ek Prem Katha (2001).jpg",
+        id: 104,
+        "title": "Gadar: Ek Prem Katha (2001)",
+        "category": "Action",
+        "size": "1.49 GB",
+        "url": "https://drive.google.com/file/d/14LB5gjTNktNLogSOfsjTFZz_L4Xvbadj/view"
+    },
+    {
+        "photo": "/img/Guns & Gulaabs.jpg",
         id: 104,
         "title": "Guns & Gulaabs (Season 1)",
         "category": "Crime",
