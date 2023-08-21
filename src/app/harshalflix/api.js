@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Jamtara - Sabka Number Ayega.jpg",
+        id: 104,
+        "title": "Jamtara - Sabka Number Ayega (All Seasons)",
+        "category": "Action",
+        "size": "3 GB/Season",
+        "url": "https://drive.google.com/drive/folders/1IPENC6MrgmnA6gAyUxfV69v58dFQ3D00"
+    },
+    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023)",
