@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Taali (2023).jpg",
+        id: 104,
+        "title": "Taali (2023)",
+        "category": "Drama",
+        "size": "3.39 GB",
+        "url": "https://drive.google.com/file/d/1kk0YhUGkPB2NZ0TeDfZ6kLxR-GFpkhLc/view"
+    },
+    {
         "photo": "/img/Jamtara - Sabka Number Ayega.jpg",
         id: 104,
         "title": "Jamtara - Sabka Number Ayega (All Seasons)",
