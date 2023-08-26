@@ -1,21 +1,5 @@
 const Data = [
     {
-        "photo": "/img/Taali (2023).jpg",
-        id: 104,
-        "title": "Taali (2023)",
-        "category": "Drama",
-        "size": "3.39 GB",
-        "url": "https://drive.google.com/file/d/1kk0YhUGkPB2NZ0TeDfZ6kLxR-GFpkhLc/view"
-    },
-    {
-        "photo": "/img/Jamtara - Sabka Number Ayega.jpg",
-        id: 104,
-        "title": "Jamtara - Sabka Number Ayega (All Seasons)",
-        "category": "Action",
-        "size": "3 GB/Season",
-        "url": "https://drive.google.com/drive/folders/1IPENC6MrgmnA6gAyUxfV69v58dFQ3D00"
-    },
-    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023) (Theatre Quality)",
@@ -46,6 +30,22 @@ const Data = [
         "category": "Action",
         "size": "1.21 GB",
         "url": "https://drive.google.com/file/d/1gtTroCAiiUj0JeuIgCsazwfc9xqk-Rn4/view"
+    },
+    {
+        "photo": "/img/Taali (2023).jpg",
+        id: 104,
+        "title": "Taali (2023)",
+        "category": "Drama",
+        "size": "3.39 GB",
+        "url": "https://drive.google.com/file/d/1kk0YhUGkPB2NZ0TeDfZ6kLxR-GFpkhLc/view"
+    },
+    {
+        "photo": "/img/Jamtara - Sabka Number Ayega.jpg",
+        id: 104,
+        "title": "Jamtara - Sabka Number Ayega (All Seasons)",
+        "category": "Action",
+        "size": "3 GB/Season",
+        "url": "https://drive.google.com/drive/folders/1IPENC6MrgmnA6gAyUxfV69v58dFQ3D00"
     },
     {
         "photo": "/img/Satyaprem Ki Katha (2023).jpg",
