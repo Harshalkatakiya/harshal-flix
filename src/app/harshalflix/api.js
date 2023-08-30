@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Jailer (2023).jpg",
+        id: 104,
+        "title": "Jailer (2023)",
+        "category": "Thriller",
+        "size": "3.21 GB",
+        "url": "https://drive.google.com/file/d/1fLFHEeLC8vyd-UtlP3YSm4ALes_YqglO/view"
+    },
+    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023) (Theatre Quality)",
