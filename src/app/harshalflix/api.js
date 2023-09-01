@@ -1,9 +1,17 @@
 const Data = [
     {
+        "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
+        id: 104,
+        "title": "Scam 2003 - The Telgi Story (2023)",
+        "category": "Drama",
+        "size": "4.85 GB",
+        "url": "https://drive.google.com/file/d/1iuigNIcUahU1QKG-B2G1bmXoyUUnFjna/view"
+    },
+    {
         "photo": "/img/One Piece (2023).jpg",
         id: 104,
         "title": "One Piece (2023)",
-        "category": "Action",
+        "category": "Adventure",
         "size": "8.39 GB",
         "url": "https://drive.google.com/file/d/1POMQO2sNAtiuxMCHfThgsMnw__eW-92x/view"
     },
@@ -114,10 +122,10 @@ const Data = [
     {
         "photo": "/img/Kutch Express (2023).jpg",
         id: 103,
-        "title": "Kutch Express (2023) (Hindi)",
+        "title": "Kutch Express (2023)",
         "category": "Drama",
         "size": "1.18 GB",
-        "url": "https://drive.google.com/file/d/1HdE-E2_IMxbpj8QFDLgTHaqfGlQL4nXn/view"
+        "url": "https://drive.google.com/file/d/1VNBbwnjf1n8ONbIqRe7RaBukubDnYXYX/view"
     },
     {
         "photo": "/img/Guardians of the Galaxy Vol 3 (2023).jpg",
