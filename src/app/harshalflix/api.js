@@ -1,11 +1,43 @@
 const Data = [
     {
+        "photo": "/img/Jawan (2023).jpg",
+        id: 104,
+        "title": "Jawan (2023) (720p) (Theatre Quality)",
+        "category": "Action",
+        "size": "2.59 GB",
+        "url": "https://drive.google.com/file/d/1n3f3245HNqB6p8jxfESVRYqUWw4iPP6C/view"
+    },
+    {
+        "photo": "/img/Jawan (2023).jpg",
+        id: 104,
+        "title": "Jawan (2023) (1080p) (Theatre Quality)",
+        "category": "Action",
+        "size": "6.26 GB",
+        "url": "https://drive.google.com/file/d/11pGVHpa0X98IgsoIMOiFG0DSta3ZOBJu/view"
+    },
+    {
         "photo": "/img/3 Ekka (2023).jpg",
         id: 104,
         "title": "3 Ekka (2023)",
         "category": "Gujarati",
         "size": "2.59 GB",
         "url": "https://drive.google.com/file/d/1cDB_LCZ7vunjE4qO6m8YFFo3t8Siy6k8/view"
+    },
+    {
+        "photo": "/img/Vaahlam Jaao Ne (2022).jpg",
+        id: 104,
+        "title": "Vaahlam Jaao Ne (2022)",
+        "category": "Gujarati",
+        "size": "2.5 GB",
+        "url": "https://drive.google.com/file/d/1VW9RZ6h4QcEFuIs6-f4rfQlIa862HA9B/view"
+    },
+    {
+        "photo": "/img/Jailer (2023).jpg",
+        id: 104,
+        "title": "Jailer (2023)",
+        "category": "Thriller",
+        "size": "3.2 GB",
+        "url": "https://drive.google.com/file/d/1LCdJDLAlH-MUDvbNlLsSf0dhWOHqcfov/view"
     },
     {
         "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
@@ -22,6 +54,14 @@ const Data = [
         "category": "Adventure",
         "size": "8.39 GB",
         "url": "https://drive.google.com/file/d/1POMQO2sNAtiuxMCHfThgsMnw__eW-92x/view"
+    },
+    {
+        "photo": "/img/Zom 100 - Bucket List Of The Dead (2023).jpg",
+        id: 104,
+        "title": "Zom 100: Bucket List Of The Dead (2023)",
+        "category": "Action",
+        "size": "1.22 GB",
+        "url": "https://drive.google.com/file/d/1ifL6viFJ0zqlBaHMDIgdDdo52UprIWo7/view"
     },
     {
         "photo": "/img/Blue Beetle (2023).jpg",
@@ -48,14 +88,6 @@ const Data = [
         "url": "https://drive.google.com/file/d/1Pmjb_b4VRtdXqRC0XACc6o81DgGCzj5_/view"
     },
     {
-        "photo": "/img/Jailer (2023).jpg",
-        id: 104,
-        "title": "Jailer (2023)",
-        "category": "Thriller",
-        "size": "3.2 GB",
-        "url": "https://drive.google.com/file/d/1LCdJDLAlH-MUDvbNlLsSf0dhWOHqcfov/view"
-    },
-    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023) (Theatre Quality)",
@@ -72,6 +104,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/14LB5gjTNktNLogSOfsjTFZz_L4Xvbadj/view"
     },
     {
+        "photo": "/img/Rocky Aur Rani Ki Prem Kahani (2023).jpg",
+        id: 103,
+        "title": "Rocky Aur Rani Ki Prem Kahani (2023)",
+        "category": "Drama",
+        "size": "1.5 GB",
+        "url": "https://drive.google.com/file/d/11Mp7qPeGzTvXp6VUgwqQ1bgObEmuT108/view"
+    },
+    {
         "photo": "/img/Guns & Gulaabs.jpg",
         id: 104,
         "title": "Guns & Gulaabs (Season 1)",
@@ -86,6 +126,14 @@ const Data = [
         "category": "Action",
         "size": "1.21 GB",
         "url": "https://drive.google.com/file/d/1gtTroCAiiUj0JeuIgCsazwfc9xqk-Rn4/view"
+    },
+    {
+        "photo": "/img/The Little Mermaid (2023).jpg",
+        id: 103,
+        "title": "The Little Mermaid (2023)",
+        "category": "Romance",
+        "size": "1.22 GB",
+        "url": "https://drive.google.com/file/d/1ynCf4rPnJa_FspBfM4G8L1v_N7KZ-SRL/view"
     },
     {
         "photo": "/img/Satyaprem Ki Katha (2023).jpg",
@@ -150,14 +198,6 @@ const Data = [
         "category": "Action",
         "size": "11.3 GB",
         "url": "https://drive.google.com/file/d/1ZRfatVQQCX0hiCA4ThE75hfdvEU7pR3h/view"
-    },
-    {
-        "photo": "/img/Rocky Aur Rani Ki Prem Kahani (2023).jpg",
-        id: 103,
-        "title": "Rocky Aur Rani Ki Prem Kahani (2023) (Theatre Quality)",
-        "category": "Drama",
-        "size": "1.38 GB",
-        "url": "https://drive.google.com/file/d/1YE8PuIod7o9PomwsGxnFhKuNAAfO4P_0/view"
     },
     {
         "photo": "/img/Oppenheimer (2023).jpg",
