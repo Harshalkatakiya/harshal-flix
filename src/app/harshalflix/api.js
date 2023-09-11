@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/3 Ekka (2023).jpg",
+        id: 104,
+        "title": "3 Ekka (2023)",
+        "category": "Gujarati",
+        "size": "2.59 GB",
+        "url": "https://drive.google.com/file/d/1cDB_LCZ7vunjE4qO6m8YFFo3t8Siy6k8/view"
+    },
+    {
         "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
         id: 104,
         "title": "Scam 2003 - The Telgi Story (2023)",
@@ -14,6 +22,14 @@ const Data = [
         "category": "Adventure",
         "size": "8.39 GB",
         "url": "https://drive.google.com/file/d/1POMQO2sNAtiuxMCHfThgsMnw__eW-92x/view"
+    },
+    {
+        "photo": "/img/Blue Beetle (2023).jpg",
+        id: 104,
+        "title": "Blue Beetle (2023)",
+        "category": "Action",
+        "size": "3.49 GB",
+        "url": "https://drive.google.com/file/d/1yrfV9T0cDiCymc5BO-PwUwCiHZWs6iHf/view"
     },
     {
         "photo": "/img/Meg 2 - The Trench (2023).jpg",
@@ -36,8 +52,8 @@ const Data = [
         id: 104,
         "title": "Jailer (2023)",
         "category": "Thriller",
-        "size": "3.21 GB",
-        "url": "https://drive.google.com/file/d/1fLFHEeLC8vyd-UtlP3YSm4ALes_YqglO/view"
+        "size": "3.2 GB",
+        "url": "https://drive.google.com/file/d/1LCdJDLAlH-MUDvbNlLsSf0dhWOHqcfov/view"
     },
     {
         "photo": "/img/Gadar 2 (2023).jpg",
