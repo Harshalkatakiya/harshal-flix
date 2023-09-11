@@ -88,6 +88,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/1Pmjb_b4VRtdXqRC0XACc6o81DgGCzj5_/view"
     },
     {
+        "photo": "/img/The Nun (2018).jpg",
+        id: 104,
+        "title": "The Nun (2018)",
+        "category": "Horror",
+        "size": "878.1 MB",
+        "url": "https://drive.google.com/file/d/1f5Y_1qwMLhlVtSpC-JE1eKT6-oiEII-p/view"
+    },
+    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023) (Theatre Quality)",
