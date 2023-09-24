@@ -7,14 +7,14 @@ const Data = [
         "size": "1.16 GB",
         "url": "https://drive.google.com/file/d/181r93HEC45ofTsKNNKbsJD7caAGEdUh6/view"
     },
-    // {
-    //     "photo": "/img/Dhunki (2019).jpg",
-    //     id: 104,
-    //     "title": "Dhunki (2019)",
-    //     "category": "Gujarati",
-    //     "size": " GB",
-    //     "url": ""
-    // },
+    {
+        "photo": "/img/Dhunki (2019).jpg",
+        id: 104,
+        "title": "Dhunki (2019)",
+        "category": "Gujarati",
+        "size": "1.19 GB",
+        "url": "https://drive.google.com/file/d/185pF8g6yDT571dqF8wTHMqHz3yVI7Kvh/view"
+    },
     {
         "photo": "/img/Jawan (2023).jpg",
         id: 104,
