@@ -16,6 +16,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/185pF8g6yDT571dqF8wTHMqHz3yVI7Kvh/view"
     },
     {
+        "photo": "/img/3 Ekka (2023).jpg",
+        id: 104,
+        "title": "3 Ekka (2023)",
+        "category": "Gujarati",
+        "size": "2.59 GB",
+        "url": "https://drive.google.com/file/d/1cDB_LCZ7vunjE4qO6m8YFFo3t8Siy6k8/view"
+    },
+    {
         "photo": "/img/Jawan (2023).jpg",
         id: 104,
         "title": "Jawan (2023) (720p) (Theatre Quality)",
@@ -30,14 +38,6 @@ const Data = [
         "category": "Action",
         "size": "6.26 GB",
         "url": "https://drive.google.com/file/d/11pGVHpa0X98IgsoIMOiFG0DSta3ZOBJu/view"
-    },
-    {
-        "photo": "/img/3 Ekka (2023).jpg",
-        id: 104,
-        "title": "3 Ekka (2023)",
-        "category": "Gujarati",
-        "size": "2.59 GB",
-        "url": "https://drive.google.com/file/d/1cDB_LCZ7vunjE4qO6m8YFFo3t8Siy6k8/view"
     },
     {
         "photo": "/img/Vaahlam Jaao Ne (2022).jpg",
