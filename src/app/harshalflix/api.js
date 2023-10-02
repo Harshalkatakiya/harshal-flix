@@ -1,5 +1,21 @@
 const Data = [
     {
+        "photo": "/img/Drishyam 2 (2022).jpg",
+        id: 104,
+        "title": "Drishyam 2 (2022)",
+        "category": "Thriller",
+        "size": "1.17 GB",
+        "url": "https://drive.google.com/file/d/1jo8dlfoZG_605KvHB_MxcBeB77IMEbMp/view"
+    },
+    {
+        "photo": "/img/Drishyam 2015 (2023).jpg",
+        id: 104,
+        "title": "Drishyam 2015 (2023)",
+        "category": "Thriller",
+        "size": "1.42 GB",
+        "url": "https://drive.google.com/file/d/1AHImguFhUPV52Lc-ayollAyqLck1At-J/view"
+    },
+    {
         "photo": "/img/Gran Turismo (2023).jpg",
         id: 104,
         "title": "Gran Turismo (2023)",
