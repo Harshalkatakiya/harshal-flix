@@ -8,6 +8,30 @@ const Data = [
         "url": "https://drive.google.com/file/d/1ksKRxIu8j4IXvTqvIUAEI2ozStmYQb-9/view"
     },
     {
+        "photo": "/img/Gadar 2 (2023).jpg",
+        id: 104,
+        "title": "Gadar 2 (2023)",
+        "category": "Action",
+        "size": "1.39 GB",
+        "url": "https://drive.google.com/file/d/1Rwyq5GDeV8Tkhp0PjcO0KYM4FAln1V5p/view"
+    },
+    {
+        "photo": "/img/Gadar - Ek Prem Katha (2001).jpg",
+        id: 104,
+        "title": "Gadar: Ek Prem Katha (2001)",
+        "category": "Action",
+        "size": "1.49 GB",
+        "url": "https://drive.google.com/file/d/14LB5gjTNktNLogSOfsjTFZz_L4Xvbadj/view"
+    },
+    {
+        "photo": "/img/Blue Beetle (2023).jpg",
+        id: 104,
+        "title": "Blue Beetle (2023)",
+        "category": "Action",
+        "size": "1.31 GB",
+        "url": "https://drive.google.com/file/d/1qh09-syU5bM6AC25XkclpP6wBIxOw-km/view"
+    },
+    {
         "photo": "/img/Drishyam 2 (2022).jpg",
         id: 104,
         "title": "Drishyam 2 (2022)",
@@ -112,14 +136,6 @@ const Data = [
         "url": "https://drive.google.com/file/d/1ifL6viFJ0zqlBaHMDIgdDdo52UprIWo7/view"
     },
     {
-        "photo": "/img/Blue Beetle (2023).jpg",
-        id: 104,
-        "title": "Blue Beetle (2023)",
-        "category": "Action",
-        "size": "3.49 GB",
-        "url": "https://drive.google.com/file/d/1yrfV9T0cDiCymc5BO-PwUwCiHZWs6iHf/view"
-    },
-    {
         "photo": "/img/Meg 2 - The Trench (2023).jpg",
         id: 104,
         "title": "Meg 2 - The Trench (2023)",
@@ -150,22 +166,6 @@ const Data = [
         "category": "Horror",
         "size": "878.1 MB",
         "url": "https://drive.google.com/file/d/1f5Y_1qwMLhlVtSpC-JE1eKT6-oiEII-p/view"
-    },
-    {
-        "photo": "/img/Gadar 2 (2023).jpg",
-        id: 104,
-        "title": "Gadar 2 (2023) (Theatre Quality)",
-        "category": "Action",
-        "size": "2.79 GB",
-        "url": "https://drive.google.com/file/d/1biEt2B2H1G0Iqhjc6bxoftrE2wr6pMCJ/view"
-    },
-    {
-        "photo": "/img/Gadar - Ek Prem Katha (2001).jpg",
-        id: 104,
-        "title": "Gadar: Ek Prem Katha (2001)",
-        "category": "Action",
-        "size": "1.49 GB",
-        "url": "https://drive.google.com/file/d/14LB5gjTNktNLogSOfsjTFZz_L4Xvbadj/view"
     },
     {
         "photo": "/img/Rocky Aur Rani Ki Prem Kahani (2023).jpg",
