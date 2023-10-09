@@ -24,6 +24,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/14LB5gjTNktNLogSOfsjTFZz_L4Xvbadj/view"
     },
     {
+        "photo": "/img/Ramayana - The Legend of Prince Rama (1993).jpg",
+        id: 104,
+        "title": "Ramayana - The Legend of Prince Rama (1993)",
+        "category": "Action",
+        "size": "1.1 GB",
+        "url": "https://drive.google.com/file/d/1d3PAsob2dpSz2QxUG2rzS2n15WbAJuod/view"
+    },
+    {
         "photo": "/img/Blue Beetle (2023).jpg",
         id: 104,
         "title": "Blue Beetle (2023)",
