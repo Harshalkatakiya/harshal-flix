@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/OMG 2 (2023).jpg",
+        id: 104,
+        "title": "OMG 2 (2023)",
+        "category": "Drama",
+        "size": "1.3 GB",
+        "url": "https://drive.google.com/file/d/1ksKRxIu8j4IXvTqvIUAEI2ozStmYQb-9/view"
+    },
+    {
         "photo": "/img/Drishyam 2 (2022).jpg",
         id: 104,
         "title": "Drishyam 2 (2022)",
