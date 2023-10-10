@@ -8,6 +8,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/1ksKRxIu8j4IXvTqvIUAEI2ozStmYQb-9/view"
     },
     {
+        "photo": "/img/Alita - Battle Angel (2019).jpg",
+        id: 104,
+        "title": "Alita - Battle Angel (2019)",
+        "category": "Sci-Fi",
+        "size": "1.21 GB",
+        "url": "https://drive.google.com/file/d/1PccbTQIqiX8EBVezGnfB6zhSaexJSFNH/view"
+    },
+    {
         "photo": "/img/9 (2009).jpg",
         id: 104,
         "title": "9 (2009)",
