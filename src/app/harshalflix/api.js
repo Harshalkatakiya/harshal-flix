@@ -8,6 +8,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/1ksKRxIu8j4IXvTqvIUAEI2ozStmYQb-9/view"
     },
     {
+        "photo": "/img/9 (2009).jpg",
+        id: 104,
+        "title": "9 (2009)",
+        "category": "Sci-Fi",
+        "size": "714.3 MB",
+        "url": "https://drive.google.com/file/d/1VbKq5P9JXS1dDgx-i3lARQVOQezfHQv1/view"
+    },
+    {
         "photo": "/img/Gadar 2 (2023).jpg",
         id: 104,
         "title": "Gadar 2 (2023)",
