@@ -1,5 +1,21 @@
 const Data = [
     {
+        "photo": "/img/The Nun II (2023).jpg",
+        id: 104,
+        "title": "The Nun II (2023)",
+        "category": "Horror",
+        "size": "1.5 GB",
+        "url": "https://drive.google.com/file/d/1TNOw1UnMWNegdZ8P3sO2k8nmNsIyd0yD/view"
+    },
+    {
+        "photo": "/img/The Nun (2018).jpg",
+        id: 104,
+        "title": "The Nun (2018)",
+        "category": "Horror",
+        "size": "878.1 MB",
+        "url": "https://drive.google.com/file/d/1f5Y_1qwMLhlVtSpC-JE1eKT6-oiEII-p/view"
+    },
+    {
         "photo": "/img/OMG 2 (2023).jpg",
         id: 104,
         "title": "OMG 2 (2023)",
@@ -174,22 +190,6 @@ const Data = [
         "category": "Action",
         "size": "2.21 GB",
         "url": "https://drive.google.com/file/d/1Pmjb_b4VRtdXqRC0XACc6o81DgGCzj5_/view"
-    },
-    {
-        "photo": "/img/The Nun II (2023).jpg",
-        id: 104,
-        "title": "The Nun II (2023) (Theatre Quality)",
-        "category": "Horror",
-        "size": "904.2 MB",
-        "url": "https://drive.google.com/file/d/1JDKcKoNfyjM169YN8ZLPUDmH9TW_p9G0/view"
-    },
-    {
-        "photo": "/img/The Nun (2018).jpg",
-        id: 104,
-        "title": "The Nun (2018)",
-        "category": "Horror",
-        "size": "878.1 MB",
-        "url": "https://drive.google.com/file/d/1f5Y_1qwMLhlVtSpC-JE1eKT6-oiEII-p/view"
     },
     {
         "photo": "/img/Rocky Aur Rani Ki Prem Kahani (2023).jpg",
