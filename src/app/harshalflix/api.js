@@ -1,11 +1,27 @@
 const Data = [
     {
-        "photo": "/img/The Nun II (2023).jpg",
+        "photo": "/img/Leo (2023).jpg",
         id: 104,
-        "title": "The Nun II (2023)",
-        "category": "Horror",
-        "size": "1.5 GB",
-        "url": "https://drive.google.com/file/d/1TNOw1UnMWNegdZ8P3sO2k8nmNsIyd0yD/view"
+        "title": "Leo (2023)",
+        "category": "Action",
+        "size": "3.07 GB",
+        "url": "https://drive.google.com/file/d/141jt4Ng-b0bUmqwvyOBxsSuviQ7LFAW_/view"
+    },
+    {
+        "photo": "/img/Leo (2023).jpg",
+        id: 104,
+        "title": "Leo (2023)",
+        "category": "Action",
+        "size": "6.05 GB",
+        "url": "https://drive.google.com/file/d/1457JuL7JYSG7zIkMBHW9AcBjXxxyvo8w/view"
+    },
+    {
+        "photo": "/img/Dream Girl 2 (2023).jpg",
+        id: 104,
+        "title": "Dream Girl 2 (2023)",
+        "category": "Drama",
+        "size": "1.05 GB",
+        "url": "https://drive.google.com/file/d/1TAc4nfQ8LDTbE1vFhA7cNfjdzbEzKN_7/view"
     },
     {
         "photo": "/img/The Nun (2018).jpg",
