@@ -4,6 +4,14 @@ const Data = [
         id: 104,
         "title": "Leo (2023)",
         "category": "Action",
+        "size": "1.33 GB",
+        "url": "https://drive.google.com/file/d/1YbQhhhWAXh6pUoaS6XLDndWbHLw1mMlZ/view"
+    },
+    {
+        "photo": "/img/Leo (2023).jpg",
+        id: 104,
+        "title": "Leo (2023)",
+        "category": "Action",
         "size": "3.07 GB",
         "url": "https://drive.google.com/file/d/141jt4Ng-b0bUmqwvyOBxsSuviQ7LFAW_/view"
     },
