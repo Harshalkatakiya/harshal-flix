@@ -23,14 +23,14 @@ const Data = [
         "size": "6.05 GB",
         "url": "https://drive.google.com/file/d/1457JuL7JYSG7zIkMBHW9AcBjXxxyvo8w/view"
     },
-    {
-        "photo": "/img/Dream Girl 2 (2023).jpg",
-        id: 104,
-        "title": "Dream Girl 2 (2023)",
-        "category": "Drama",
-        "size": "1.05 GB",
-        "url": "https://drive.google.com/file/d/1TAc4nfQ8LDTbE1vFhA7cNfjdzbEzKN_7/view"
-    },
+    // {
+    //     "photo": "/img/Dream Girl 2 (2023).jpg",
+    //     id: 104,
+    //     "title": "Dream Girl 2 (2023)",
+    //     "category": "Drama",
+    //     "size": "1.05 GB",
+    //     "url": "https://drive.google.com/file/d/1TAc4nfQ8LDTbE1vFhA7cNfjdzbEzKN_7/view"
+    // },
     {
         "photo": "/img/The Nun (2018).jpg",
         id: 104,
