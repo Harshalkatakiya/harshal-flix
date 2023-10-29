@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/The Last of Us (2023).jpg",
+        id: 104,
+        "title": "The Last of Us (2023)",
+        "category": "Action",
+        "size": "3.47 GB",
+        "url": "https://drive.google.com/file/d/1e71uDMTlyIjj9HJME4xC355colrX7l9t/view"
+    },
+    {
         "photo": "/img/Leo (2023).jpg",
         id: 104,
         "title": "Leo (2023)",
