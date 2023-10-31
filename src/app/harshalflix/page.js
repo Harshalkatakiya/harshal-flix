@@ -1,10 +1,10 @@
 'use client';
-import Data from './api'
-import Card from './Card'
-import logo from '../../../public/logo.png';
-import { useState } from 'react';
 import Image from 'next/image';
+import { useState } from 'react';
+import logo from '../../../public/logo.png';
+import Card from './Card';
 import './Navigation.css';
+import Data from './api';
 
 const uniqueList = [
     ...new Set(
