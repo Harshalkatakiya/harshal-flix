@@ -38,15 +38,14 @@ const page = () => {
         setFilteredOptions(filtered);
         value == "" ? setMovie(Data) : setMovie(filteredOptions);
     };
-    /*  const handleOptionSelect = (option) => {
-         setInputValue(option.title);
-         setFilteredOptions([]);
-     }; */
+    // const handleOptionSelect = (option) => {
+    //     setInputValue(option.title);
+    //     setFilteredOptions([]);
+    // };
     return (
         <>
             <div className='bg-red-50'>
-                <div className='grid fixed top-0 w-full m-0 z-20 ring-2  ring-red-300 ring-opacity-50 ring-offset-0
-             backdrop-blur-lg backdrop-saturate-200 bg-white  bg-opacity-60'>
+                <div className='grid fixed top-0 w-full m-0 z-20 ring-2  ring-red-300 ring-opacity-50 ring-offset-0 backdrop-blur-lg backdrop-saturate-200 bg-white  bg-opacity-60'>
                     <Image src={logo} className='mx-auto w-[25vh] h-auto mt-2 animate-[logo-animation_1s_ease]' alt="HarshalFlix" />
                 </div>
                 <div className='relative'>
