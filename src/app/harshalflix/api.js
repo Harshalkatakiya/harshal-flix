@@ -1,5 +1,13 @@
 const Data = [
     {
+        "photo": "/img/Jawan (2023).jpg",
+        id: 104,
+        "title": "Jawan (2023) (with Extended Cut)",
+        "category": "Action",
+        "size": "1.44 GB",
+        "url": "https://drive.google.com/file/d/1-jKrBlDAdzONqtck_ok_Irw73IMmtQKd/view"
+    },
+    {
         "photo": "/img/The Last of Us (2023).jpg",
         id: 104,
         "title": "The Last of Us (2023)",
@@ -150,22 +158,6 @@ const Data = [
         "category": "Gujarati",
         "size": "2.59 GB",
         "url": "https://drive.google.com/file/d/1cDB_LCZ7vunjE4qO6m8YFFo3t8Siy6k8/view"
-    },
-    {
-        "photo": "/img/Jawan (2023).jpg",
-        id: 104,
-        "title": "Jawan (2023) (720p) (Theatre Quality)",
-        "category": "Action",
-        "size": "2.59 GB",
-        "url": "https://drive.google.com/file/d/1n3f3245HNqB6p8jxfESVRYqUWw4iPP6C/view"
-    },
-    {
-        "photo": "/img/Jawan (2023).jpg",
-        id: 104,
-        "title": "Jawan (2023) (1080p) (Theatre Quality)",
-        "category": "Action",
-        "size": "6.26 GB",
-        "url": "https://drive.google.com/file/d/11pGVHpa0X98IgsoIMOiFG0DSta3ZOBJu/view"
     },
     {
         "photo": "/img/Vaahlam Jaao Ne (2022).jpg",
