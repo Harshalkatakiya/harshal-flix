@@ -8,7 +8,7 @@ export default async function handler(req, res) {
         try {
             await client.connect();
             const database = client.db(process.env.MONGODBDB);
-            const collection = database.collection('movie');
+            const collection = database.collection('movies');
             const result = await collection.insertOne({ type, imdbURL, image, title, year, rating, description, language, category, stars, downloadLinks, episodes });
             res.status(200).json({ message: 'Form submitted successfully!' });
         } catch (error) {
