@@ -1,5 +1,21 @@
 const Data = [
     {
+        "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
+        id: 104,
+        "title": "Scam 2003 - The Telgi Story (2023) (Part 2)",
+        "category": "Drama",
+        "size": "1.65 GB",
+        "url": "https://drive.google.com/file/d/1XSP3y5t3-MlSU9huuEGNUN4T95-SBB97/view"
+    },
+    {
+        "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
+        id: 104,
+        "title": "Scam 2003 - The Telgi Story (2023) (Part 1)",
+        "category": "Drama",
+        "size": "4.85 GB",
+        "url": "https://drive.google.com/file/d/1iuigNIcUahU1QKG-B2G1bmXoyUUnFjna/view"
+    },
+    {
         "photo": "/img/Jawan (2023).jpg",
         id: 104,
         "title": "Jawan (2023) (with Extended Cut)",
@@ -174,14 +190,6 @@ const Data = [
         "category": "Thriller",
         "size": "3.2 GB",
         "url": "https://drive.google.com/file/d/1LCdJDLAlH-MUDvbNlLsSf0dhWOHqcfov/view"
-    },
-    {
-        "photo": "/img/Scam 2003 - The Telgi Story (2023).jpg",
-        id: 104,
-        "title": "Scam 2003 - The Telgi Story (2023)",
-        "category": "Drama",
-        "size": "4.85 GB",
-        "url": "https://drive.google.com/file/d/1iuigNIcUahU1QKG-B2G1bmXoyUUnFjna/view"
     },
     {
         "photo": "/img/One Piece (2023).jpg",
