@@ -16,12 +16,28 @@ const Data = [
         "url": "https://drive.google.com/file/d/1iuigNIcUahU1QKG-B2G1bmXoyUUnFjna/view"
     },
     {
+        "photo": "/img/Takeshi's Castle India.jpg",
+        id: 104,
+        "title": "Takeshi's Castle India (Season 1)",
+        "category": "Action",
+        "size": "2.01 GB",
+        "url": "https://drive.google.com/file/d/1d245abRsf9YvRXc0JMv4wsOJ7O0CCvq2/view"
+    },
+    {
         "photo": "/img/The Equalizer 3 (2023).jpg",
         id: 104,
         "title": "The Equalizer 3 (2023)",
         "category": "Action",
         "size": "1.03 GB",
         "url": "https://drive.google.com/file/d/1eXf5BxIcd3J3Y2H2aemxQfZcPkWRe6Si/view"
+    },
+    {
+        "photo": "/img/Vincenzo.jpg",
+        id: 104,
+        "title": "Vincenzo (Season 1)",
+        "category": "K-Drama",
+        "size": "9.19 GB",
+        "url": "https://drive.google.com/file/d/1j91up9gr4nXb7tqrUq42-ClUP1t67PVz/view"
     },
     {
         "photo": "/img/Jawan (2023).jpg",
@@ -55,22 +71,6 @@ const Data = [
         "size": "3.07 GB",
         "url": "https://drive.google.com/file/d/141jt4Ng-b0bUmqwvyOBxsSuviQ7LFAW_/view"
     },
-    {
-        "photo": "/img/Leo (2023).jpg",
-        id: 104,
-        "title": "Leo (2023)",
-        "category": "Action",
-        "size": "6.05 GB",
-        "url": "https://drive.google.com/file/d/1457JuL7JYSG7zIkMBHW9AcBjXxxyvo8w/view"
-    },
-    // {
-    //     "photo": "/img/Dream Girl 2 (2023).jpg",
-    //     id: 104,
-    //     "title": "Dream Girl 2 (2023)",
-    //     "category": "Drama",
-    //     "size": "1.05 GB",
-    //     "url": "https://drive.google.com/file/d/1TAc4nfQ8LDTbE1vFhA7cNfjdzbEzKN_7/view"
-    // },
     {
         "photo": "/img/The Nun (2018).jpg",
         id: 104,
