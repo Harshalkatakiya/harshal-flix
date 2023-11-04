@@ -16,6 +16,14 @@ const Data = [
         "url": "https://drive.google.com/file/d/1iuigNIcUahU1QKG-B2G1bmXoyUUnFjna/view"
     },
     {
+        "photo": "/img/The Equalizer 3 (2023).jpg",
+        id: 104,
+        "title": "The Equalizer 3 (2023)",
+        "category": "Action",
+        "size": "1.03 GB",
+        "url": "https://drive.google.com/file/d/1eXf5BxIcd3J3Y2H2aemxQfZcPkWRe6Si/view"
+    },
+    {
         "photo": "/img/Jawan (2023).jpg",
         id: 104,
         "title": "Jawan (2023) (with Extended Cut)",
