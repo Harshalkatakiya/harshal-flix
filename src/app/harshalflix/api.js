@@ -19,7 +19,7 @@ const Data = [
         "photo": "/img/Takeshi's Castle India.jpg",
         id: 104,
         "title": "Takeshi's Castle India (Season 1)",
-        "category": "Action",
+        "category": "Game Show",
         "size": "2.01 GB",
         "url": "https://drive.google.com/file/d/1d245abRsf9YvRXc0JMv4wsOJ7O0CCvq2/view"
     },
