@@ -16,7 +16,6 @@ const uniqueList = [
 ];
 
 const page = () => {
-    alert("Access movies using your Atmiya University gmail only! Example: 156121⁕⁕⁕⁕@atmiyauni.edu.in")
     const [movie, setMovie] = useState(Data);
     const filterItem = (category) => {
         if (category === "All") {
