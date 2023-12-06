@@ -1,22 +1,125 @@
 {
+    "editor.mouseWheelZoom": true,
+    "workbench.startupEditor": "none",
+    "debug.terminal.clearBeforeReusing": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "explorer.confirmDelete": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.suggestSelection": "first",
+    "code-runner.clearPreviousOutput": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "editor.linkedEditing": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.fontFamily": "'Fira Code', Consolas, Courier New, monospace",
+    "editor.fontLigatures": "true",
+    "editor.fontSize": 16,
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "editor.guides.bracketPairs": true,
+    "editor.wordWrap": "on",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "editor.accessibilitySupport": "off",
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "git.autofetch": true,
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.env.windows": {},
+    "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+        "live-server-extension": true,
+        "live-preview-extension": true
+    },
+    "codeium.enableConfig": {
+        "*": true,
+        "properties": true,
+        "xml": true
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "window.zoomLevel": -1,
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.7)",
+        "rgba(127,255,127,0.7)",
+        "rgba(255,127,255,0.7)",
+        "rgba(79,236,236,0.7)"
+    ],
+    "indentRainbow.indicatorStyle": "light",
+    "indentRainbow.colorOnWhiteSpaceOnly": true,
+    "console-ninja.featureSet": "Community",
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false
+    },
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command",
+        "stash-push:command",
+        "switch:command",
+        "branch-create:command"
+    ],
+    "git.enableSmartCommit": true,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    },
+    "editor.formatOnSave": true,
+    "powermode.presets": "flames",
+    "powermode.shake.enabled": false,
+    "powermode.combo.counterEnabled": "hide",
+    "powermode.combo.location": "off",
+    "powermode.enabled": true,
+    "WillLuke.nextjs.addTypesOnSave": true,
+    "WillLuke.nextjs.hasPrompted": true,
     "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#ff3333",
-        "activityBar.background": "#ff3333",
+        "activityBar.activeBackground": "#8d4fd4",
+        "activityBar.background": "#8d4fd4",
         "activityBar.foreground": "#e7e7e7",
         "activityBar.inactiveForeground": "#e7e7e799",
-        "activityBarBadge.background": "#00df00",
+        "activityBarBadge.background": "#d99b65",
         "activityBarBadge.foreground": "#15202b",
         "commandCenter.border": "#e7e7e799",
-        "sash.hoverBorder": "#ff3333",
-        "statusBar.background": "#ff0000",
+        "sash.hoverBorder": "#8d4fd4",
+        "statusBar.background": "#732fc1",
         "statusBar.foreground": "#e7e7e7",
-        "statusBarItem.hoverBackground": "#ff3333",
-        "statusBarItem.remoteBackground": "#ff0000",
+        "statusBarItem.hoverBackground": "#8d4fd4",
+        "statusBarItem.remoteBackground": "#732fc1",
         "statusBarItem.remoteForeground": "#e7e7e7",
-        "titleBar.activeBackground": "#ff0000",
+        "titleBar.activeBackground": "#732fc1",
         "titleBar.activeForeground": "#e7e7e7",
-        "titleBar.inactiveBackground": "#ff000099",
+        "titleBar.inactiveBackground": "#732fc199",
         "titleBar.inactiveForeground": "#e7e7e799"
     },
-    "peacock.color": "#ff0000"
+    "peacock.color": "#732fc1"
 }
